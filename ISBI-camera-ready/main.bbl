@@ -1,0 +1,101 @@
+\begin{thebibliography}{10}
+
+\bibitem{villain_2008}
+Nicolas Villain, Béatrice Desgranges, Fausto Viader, Vincent De~La Sayette,
+  Florence Mezenge, Brigitte Landeau, Jean-Claude Baron, Francis Eustache, and
+  Gaël Chetelat,
+\newblock ``Relationships between hippocampal atrophy, white matter disruption,
+  and gray matter hypometabolism in alzheimers disease,''
+\newblock {\em Journal of Neuroscience}, vol. 28, no. 24, pp. 6174–6181, Nov
+  2008.
+
+\bibitem{kuczynski_2010}
+Beth Kuczynski, Elizabeth Targan, Cindee Madison, Michael Weiner, Yu~Zhang,
+  Bruce Reed, Helena~C. Chui, and William Jagust,
+\newblock ``White matter integrity and cortical metabolic associations in aging
+  and dementia,''
+\newblock {\em Alzheimers \& Dementia}, vol. 6, no. 1, pp. 54–62, 2010.
+
+\bibitem{lo_2010}
+Chun-Yi Lo, Pei-Ning Wang, Kun-Hsien Chou, Jinhui Wang, Yong He, and Ching-Po
+  Lin,
+\newblock ``Diffusion tensor tractography reveals abnormal topological
+  organization in structural cortical networks in alzheimers disease,''
+\newblock {\em Journal of Neuroscience}, vol. 30, no. 50, pp. 16876–16885,
+  2010.
+
+\bibitem{seeley_2010}
+Bill Seeley,
+\newblock ``Neurodegenerative diseases target large-scale human brain
+  networks,''
+\newblock {\em Alzheimers \& Dementia}, vol. 6, no. 4, 2010.
+
+\bibitem{honey_sporns_cammoun_gigandet_thiran_meuli_hagmann_2009}
+Christopher~J. Honey, Olaf Sporns, leila Cammoun, Xavier Gigandet,
+  Jean-Philippe. Thiran, Reto Meuli, and Patric Hagmann,
+\newblock ``Predicting human resting-state functional connectivity from
+  structural connectivity,''
+\newblock {\em Proceedings of the National Academy of Sciences}, vol. 106, no.
+  6, pp. 2035–2040, Feb 2009.
+
+\bibitem{galan_2008}
+Roberto~F. Galán,
+\newblock ``On how network architecture determines the dominant patterns of
+  spontaneous neural activity,''
+\newblock {\em PLoS ONE}, vol. 3, no. 5, 2008.
+
+\bibitem{raj_kuceyeski_weiner_2012}
+Ashish Raj, Amy Kuceyeski, and Michael Weiner,
+\newblock ``A network diffusion model of disease progression in dementia,''
+\newblock {\em Neuron}, vol. 73, no. 6, pp. 1204–1215, 2012.
+
+\bibitem{hwang_ravi_adluru_bendlin_johnson_singh_2018}
+Seong~Jae Hwang, Sathya Ravi, Nagesh Adluru, Barbara~B. Bendlin, Sterling~C.
+  Johnson, and Vikas Singh,
+\newblock ``Data-driven propagation modeling of pet-derived alzheimer’s
+  pathology in a preclinical cohort,''
+\newblock {\em Alzheimers \& Dementia}, vol. 14, no. 7, 2018.
+
+\bibitem{chen2018neural}
+Ricky T.~Q. Chen, Yulia Rubanova, Jesse Bettencourt, and David Duvenaud,
+\newblock ``Neural ordinary differential equations,''
+\newblock {\em Advances in Neural Information Processing Systems}, 2018.
+
+\bibitem{johnson2014amyloid}
+Sterling~C Johnson, Bradley~T Christian, Ozioma~C Okonkwo, Jennifer~M Oh,
+  Sandra Harding, Guofan Xu, Ansel~T Hillmer, Dustin~W Wooten, Dhanabalan
+  Murali, Todd~E Barnhart, et~al.,
+\newblock ``Amyloid burden and neural function in people at risk for
+  alzheimer's disease,''
+\newblock {\em Neurobiology of aging}, vol. 35, no. 3, pp. 576--584, 2014.
+
+\bibitem{raamana2015thickness}
+Pradeep~Reddy Raamana, Michael~W Weiner, Lei Wang, Mirza~Faisal Beg,
+  Alzheimer's Disease~Neuroimaging Initiative, et~al.,
+\newblock ``Thickness network features for prognostic applications in
+  dementia,''
+\newblock {\em Neurobiology of aging}, vol. 36, pp. S91--S102, 2015.
+
+\bibitem{rebeck1993apolipoprotein}
+G~William Rebeck, Joell~S Reiter, Dudley~K Strickland, and Bradley~T Hyman,
+\newblock ``Apolipoprotein e in sporadic alzheimer's disease: allelic variation
+  and receptor interactions,''
+\newblock {\em Neuron}, vol. 11, no. 4, pp. 575--580, 1993.
+
+\bibitem{bilgel2016individual}
+Murat Bilgel, Yang An, Yun Zhou, Dean~F Wong, Jerry~L Prince, Luigi Ferrucci,
+  and Susan~M Resnick,
+\newblock ``Individual estimates of age at detectable amyloid onset for risk
+  factor assessment,''
+\newblock {\em Alzheimer's \& Dementia}, vol. 12, no. 4, pp. 373--379, 2016.
+
+\bibitem{koscik2019modelingpib}
+Rebecca Koscik, Tobey~J Betthauser, Erin~M Jonaitis, Lindsay~R Clark, Samantha
+  Allison, Kimberly~D Mueller, Bruce~P Hermann, Jennifer~D Poetter, Leah
+  Sanson, Heather Shouel, Nathaniel~A Chin, Bradley~T Christian, and Sterling~C
+  Johnson,
+\newblock ``Modeling pib pet trajectory groups identifies a subgroup with pib
+  beta-amyloid accumulation near age 50 and predicts mk-6240 suvr,''
+\newblock in {\em Human Amyloid Imaging}, 2019.
+
+\end{thebibliography}
