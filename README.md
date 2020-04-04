@@ -7,8 +7,8 @@ _____________________________
 ## File Structure:
 
 Paper&Talk:
-1.ISBI-camera-ready
-2.Presentation
+1. ISBI-camera-ready
+2. Presentation
 
 Code:
 1. assets	
